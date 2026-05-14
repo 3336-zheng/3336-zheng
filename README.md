@@ -31,16 +31,6 @@ Hi，我是 **祈（晚秋）**，专注于端侧智能语音技术与 AI Agent 
 <div align="center">
 
 
-### 🔥 贡献 Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=3336-zheng&theme=default&locale=cn&hide_border=true" alt="Streak Stats" />
-
-</div>
-
----
-
-<div align="center">
-
 ### 💡 精选项目
 
 | 项目 | 说明 | 技术栈 |
