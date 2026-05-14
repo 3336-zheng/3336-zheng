@@ -9,7 +9,7 @@
 
 <div align="center">
 
-Hi，我是 **郑均皓（晚秋）**，专注于端侧智能语音技术与 AI Agent 应用开发。
+Hi，我是 **祈（晚秋）**，专注于端侧智能语音技术与 AI Agent 应用开发。
 热爱探索 KWS、ASR、RAG、Agent 等前沿方向，正在用代码让机器更懂人。
 
 </div>
