@@ -1,7 +1,7 @@
 <!-- 打字机动画 Header -->
 <div align="center">
   <a href="https://github.com/3336-zheng">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E6%99%9A%E7%A7%8B_3336;%E4%BB%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%88%B0%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%EF%BC%8C%E4%BB%8EKWS%E5%88%B0ASR%EF%BC%8C%E4%BB%8E%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%88%B0Agent%2BRAG%EF%BC%8C%E6%8E%A2%E7%B4%A2AI%E7%9A%84%E6%97%A0%E9%99%90%E5%8F%AF%E8%83%BD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E6%99%9A%E7%A7%8B_3336%3B%E6%8E%A2%E7%B4%A2AI%EF%BC%8C%E4%BB%8EKWS%E5%88%B0ASR%EF%BC%8C%E4%BB%8E%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%88%B0Agent%2BRAG" alt="Typing SVG" />
   </a>
 </div>
 
