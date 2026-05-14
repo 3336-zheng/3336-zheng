@@ -30,22 +30,6 @@ Hi，我是 **祈（晚秋）**，专注于端侧智能语音技术与 AI Agent 
 
 <div align="center">
 
-### 📊 GitHub 统计
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=3336-zheng&show_icons=true&theme=default&locale=cn&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3336-zheng&layout=compact&theme=default&locale=cn&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<div align="center">
 
 ### 🔥 贡献 Streak
 
