@@ -61,7 +61,6 @@ Hi，我是 **祈（晚秋）**，专注于端侧智能语音技术与 AI Agent 
 
 | 项目 | 说明 | 技术栈 |
 |------|------|--------|
-| [智语](https://github.com/3336-zheng/智语_端侧智能语音笔记助手) | 端侧智能语音笔记助手（自研 Agent + RAG） | Python, RAG, Agent, ASR |
 | [ArcFace-CNN](https://github.com/3336-zheng/ArcFace-CNN-classifying_words-model_ONNX) | 机器学习框架做分类识别词 | Python, ONNX, CNN |
 
 </div>
