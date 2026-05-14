@@ -21,7 +21,7 @@ Hi，我是 **祈（晚秋）**，专注于端侧智能语音技术与 AI Agent 
 ### 🛠️ 技术栈
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,docker,linux,mysql,redis,anthropic,openai" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,docker,linux,mysql,redis" />
 </a>
 
 </div>
