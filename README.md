@@ -9,7 +9,7 @@
 
 <div align="center">
 
-Hi，我是 **郑均皓（晚秋）**，专注于端侧智能语音技术与 AI Agent 应用开发。
+Hi，我是 **祈（晚秋）**，专注于端侧智能语音技术与 AI Agent 应用开发。
 热爱探索 KWS、ASR、RAG、Agent 等前沿方向，正在用代码让机器更懂人。
 
 </div>
@@ -21,7 +21,7 @@ Hi，我是 **郑均皓（晚秋）**，专注于端侧智能语音技术与 AI 
 ### 🛠️ 技术栈
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,git,docker,linux,mysql,redis,claude" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,pandas,numpy,git,docker,linux,vscode,mysql,redis" />
 </a>
 
 </div>
@@ -61,7 +61,6 @@ Hi，我是 **郑均皓（晚秋）**，专注于端侧智能语音技术与 AI 
 
 | 项目 | 说明 | 技术栈 |
 |------|------|--------|
-| [智语](https://github.com/3336-zheng/智语_端侧智能语音笔记助手) | 端侧智能语音笔记助手（自研 Agent + RAG） | Python, RAG, Agent, ASR |
 | [ArcFace-CNN](https://github.com/3336-zheng/ArcFace-CNN-classifying_words-model_ONNX) | 机器学习框架做分类识别词 | Python, ONNX, CNN |
 
 </div>
