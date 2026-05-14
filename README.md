@@ -21,7 +21,7 @@ Hi，我是 **郑均皓（晚秋）**，专注于端侧智能语音技术与 AI 
 ### 🛠️ 技术栈
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,huggingface,git,docker,linux,cursor,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,git,docker,linux,mysql,redis,claude" />
 </a>
 
 </div>
