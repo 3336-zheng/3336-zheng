@@ -13,8 +13,7 @@
 </div>
 
 ```text
-CAPTURE  ->  KNOWLEDGE  ->  RETRIEVE  ->  REASON  ->  VERIFY  ->  ACT
-语音与文档     本地 Wiki       混合检索       Agent 编排      证据门禁      确认执行
+关注最前沿的AI领域，探讨AI提效的可能性
 ```
 
 ## 关于我
