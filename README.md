@@ -29,6 +29,7 @@
 
 | 项目 | 核心内容 | 技术栈 |
 | --- | --- | --- |
+| [DSH Observatory](https://github.com/3336-zheng/dsh-observatory) | DeepSeek Harness 的 Agent 可观测工作台，让执行轨迹、上下文来源、工具表现和插件配置可见、可诊断、可复盘。 | TypeScript · React · DeepSeek Harness · Vitest · Playwright |
 | [智语](https://github.com/3336-zheng/zhiyu-voice-assistant) | 本地优先 AI Wiki，将语音、文档和笔记沉淀为可维护知识库；支持可信 RAG、可恢复 Agent Runtime、MCP 外部研究与确认式写入。 | Python · FastAPI · LangGraph · ChromaDB · SQLite · React |
 | [CodeReviewer Orchestrator](https://github.com/3336-zheng/CodeReviewer-Orchestrator) | 多智能体代码评审系统，并行执行风格、安全、性能、逻辑与提交质量检查，再由仲裁 Agent 去重并生成结构化报告。 | Python · LangGraph · LangChain · FastAPI · SSE · SQLite |
 | [ArcFace CNN Word Classifier](https://github.com/3336-zheng/ArcFace-CNN-classifying_words-model_ONNX) | 面向词分类识别的机器学习项目，覆盖 CNN 模型训练与 ONNX 推理。 | Python · CNN · ONNX |
