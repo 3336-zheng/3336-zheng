@@ -1,7 +1,5 @@
 <div align="center">
 
-# 祈 · 晚秋
-
 **Python Backend · AI Agent · RAG Systems · Edge Speech**
 
 构建可解释、可恢复、可持续演进的智能应用。
