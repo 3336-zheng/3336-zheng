@@ -22,7 +22,7 @@ I focus on Python backend engineering, AI agents, trustworthy RAG, and on-device
 
 - **Agent Engineering**: LangGraph state orchestration, multi-agent collaboration, streaming events, failure recovery, and idempotent execution.
 - **RAG Systems**: BM25, embeddings, RRF, rerankers, parent-child chunking, token budgets, and evidence gating.
-- **Backend Engineering**: FastAPI, SQLAlchemy, SQLite, asynchronous tasks, lifecycle management, and observability.
+- **Backend Engineering**: FastAPI, SQLAlchemy, MySQL, asynchronous tasks, lifecycle management, and observability.
 - **On-Device AI**: ASR, keyword spotting, PyTorch, ONNX, and local model deployment.
 
 ## Featured Projects
@@ -31,7 +31,7 @@ I focus on Python backend engineering, AI agents, trustworthy RAG, and on-device
 | --- | --- | --- |
 | [DSH Observatory](https://github.com/3336-zheng/dsh-observatory) | An agent observability workbench for DeepSeek Harness that makes execution traces, context provenance, tool performance, and plugin configuration visible, diagnosable, and reviewable. | TypeScript · React · DeepSeek Harness · Vitest · Playwright |
 | [Zhiyu](https://github.com/3336-zheng/zhiyu-voice-assistant) | A local-first AI wiki that turns voice, documents, and notes into a maintainable knowledge base, with trustworthy RAG, a recoverable agent runtime, MCP-based external research, and confirmation-based writes. | Python · FastAPI · LangGraph · ChromaDB · Agent · RAG |
-| [CodeReviewer Orchestrator](https://github.com/3336-zheng/CodeReviewer-Orchestrator) | A multi-agent code review system that runs style, security, performance, logic, and commit-quality checks in parallel, then uses an arbitration agent to deduplicate findings and generate a structured report. | Python · LangGraph · LangChain · FastAPI · SSE · SQLite |
+| [CodeReviewer Orchestrator](https://github.com/3336-zheng/CodeReviewer-Orchestrator) | A multi-agent code review system that runs style, security, performance, logic, and commit-quality checks in parallel, then uses an arbitration agent to deduplicate findings and generate a structured report. | Python · LangGraph · LangChain · FastAPI · SSE · MySQL |
 | [ArcFace CNN Word Classifier](https://github.com/3336-zheng/ArcFace-CNN-classifying_words-model_ONNX) | A machine learning project for word classification, covering CNN model training and ONNX inference. | Python · CNN · ONNX |
 
 ## Tech Stack
@@ -41,7 +41,7 @@ I focus on Python backend engineering, AI agents, trustworthy RAG, and on-device
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-20232A?style=flat-square" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
@@ -53,7 +53,7 @@ I focus on Python backend engineering, AI agents, trustworthy RAG, and on-device
 | --- | --- |
 | Reliability | State machines · Idempotency · Timeouts · Retries · Restart recovery |
 | Trustworthy Retrieval | Hybrid recall · Unified fusion · Reranking · Citations · Evidence gating |
-| Data Boundaries | Markdown as the source of truth · SQLite metadata · Rebuildable indexes |
+| Data Boundaries | Markdown as the source of truth · MySQL metadata · Rebuildable indexes |
 | Observability | Request IDs · Stage latency · Token usage · Execution records |
 | Security | Input validation · Confirmation-based writes · External-source isolation · Secret boundaries |
 
